@@ -2,7 +2,7 @@
 
 Title: Mobile Sales Performance Dashboard – Power BI Project
 
-Bio: This Power BI dashboard provides a comprehensive analysis of mobile sales performance across different cities and brands. Key KPIs include total sales, quantity sold, total transactions, and average price. Interactive visuals enable filtering by brand, mobile model, and month, offering insights into:
+This Power BI dashboard provides a comprehensive analysis of mobile sales performance across different cities and brands. Key KPIs include total sales, quantity sold, total transactions, and average price. Interactive visuals enable filtering by brand, mobile model, and month, offering insights into:
 
 Sales trends by day and month.
 Top-performing mobile models and brands.
